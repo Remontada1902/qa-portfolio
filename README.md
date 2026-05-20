@@ -8,8 +8,8 @@
 
 | Артефакт | Описание |
 |----------|----------|
-- [Тест-кейсы](./test_cases_relise_1.csv) | 46 тест-кейсов (UI + API) в TestIT |
-- [Баг-репорты](./bug_reports_relise_1.csv) | 19 багов, 14 исправлено, 5 открыто |
+- [Тест-кейсы](./test_cases_relise_1.md) | 46 тест-кейсов (UI + API) в TestIT |
+- [Баг-репорты](./bug_reports_relise_1.md) | 19 багов, 14 исправлено, 5 открыто |
 - [Postman коллекция](./StoreSystem_API.postman_collection.json) | API-тесты с авто-проверками |
 
 ### Итог по релизу
